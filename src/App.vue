@@ -147,9 +147,9 @@ export default {
         "system": "Anna Ataroda",
         "gate": "Atlas-Quanokrim",
         "ring": "Annamite-Line [Ring 11]",
-        "headerTitle": "Iron Orchids: ",
+        "headerTitle": "Iron Orchids",
         "headerSubtitle": "Tactical Assets",
-        "subheaderTitle": "Tallin Estel",
+        "subheaderTitle": "Tallin Estel ",
         "subheaderSubtitle": "Personal Net",
       },
       "options":{
