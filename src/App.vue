@@ -142,15 +142,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
+        "planet": "CARIBBEAN",
+        "year": "5087u",
+        "system": "Anna Ataroda",
         "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "ring": "Annamite-Line [Ring 11]",
+        "headerTitle": "Iron Orchids: ",
+        "headerSubtitle": "Tactical Assets",
+        "subheaderTitle": "Tallin Estel",
+        "subheaderSubtitle": "Personal Net",
       },
       "options":{
         "eventsMarkdownPerMission": true
