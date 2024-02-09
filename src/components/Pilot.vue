@@ -15,7 +15,7 @@
 			</div>
 			<div class="mech-loadout">
 				<div class="name">
-					<h1>"Status"</h1>
+					<h1>Status</h1>
 					<h2>{{ pilot.status }}</h2>
 				</div>
 			</div>
