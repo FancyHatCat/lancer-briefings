@@ -153,7 +153,7 @@ export default {
         "planet": "CARIBBEAN",
         "year": "5087u",
         "system": "Anna Ataroda",
-        "gate": "Atlas-Quanokrim",
+        "gate": "Ngoc Linh",
         "ring": "Annamite-Line [Ring 11]",
         "headerTitle": "Iron Orchids",
         "headerSubtitle": "Tactical Assets",
