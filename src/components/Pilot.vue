@@ -19,7 +19,6 @@
 					<h2>{{ pilot.status }}</h2>
 				</div>
 			</div>
-			<img :src="mechPortrait" class="mech-portrait" />
 		</div>
 		<div class="middle">
 			<div class="text">&nbsp;</div>
