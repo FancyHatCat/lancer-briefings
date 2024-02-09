@@ -13,7 +13,7 @@
 				</div>
 				<div class="code">{{ pilot.code }}</div>
 			</div>
-			<div class="mech-loadout" width: 170px;>
+			<div class="mech-loadout">
 				<div class="name">
 					<h1>Status</h1>
 					<h2>{{ pilot.status }}</h2>
