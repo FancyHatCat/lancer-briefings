@@ -11,7 +11,7 @@ $highlight-hover: rgba(255, 255, 255, 0.3);
 $highlight-active: rgba(255, 255, 255, 0.1);
 
 //Primary Text
-$text-headers: rgb(255, 255, 255);
+$text-headers: rgba(255, 255, 255, 1);
 $text-location: rgba(255, 255, 255, 0.871);
 
 //Location Information
@@ -127,7 +127,7 @@ header {
     align-self: center;
     font-family: "Big Shoulders Display", cursive;
     font-weight: 800;
-    color:rgb(255, 255, 255);
+    color:rgba(255, 255, 255, 1);
     text-transform: uppercase;
     letter-spacing: 0.15em;
   }
