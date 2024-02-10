@@ -150,7 +150,7 @@ export default {
         },
       ],
       "header": {
-        "planet": "CARIBBEAN",
+        "planet": "CARIBBEAN SPACE",
         "year": "5087u",
         "system": "Anna Ataroda",
         "gate": "Ngoc Linh",
