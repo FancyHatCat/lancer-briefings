@@ -96,12 +96,12 @@ export default {
         {
           "slug": "001",
           "name": "None",
-          "status": "success"
+          "status": "start"
         },
         {
           "slug": "002",
           "name": "None",
-          "status": "failure"
+          "status": "start"
         },
       ],
       "pilots": [
