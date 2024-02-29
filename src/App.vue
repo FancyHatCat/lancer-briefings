@@ -110,6 +110,7 @@ export default {
           "alias": "Cécile Zhen",
           "code": "nUO9sckU-wrVY-eCQw-KTSL-Cw9tCGogR3TB///VggL-ke6S-NXnaTO4a-ENMxnbnI//lxAgxlgv-GUgv-10GV-rsIn-qqZnOmnbAuJ5",
           "status": "ACTIVE"
+          "mech": "Silkworm"
         },
         {
           "callsign": "Azure",
@@ -156,7 +157,7 @@ export default {
       ],
       "header": {
         "planet": "CARIBBEAN SPACE",
-        "year": "5086u",
+        "year": "5097u",
         "system": "Anna Ataroda",
         "gate": "Ngoc Linh",
         "ring": "Annamite-Line [Ring 11]",
