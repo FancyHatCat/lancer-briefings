@@ -108,49 +108,49 @@ export default {
         {
           "callsign": "Alceste",
           "alias": "Cécile Zhen",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "code": "nUO9sckU-wrVY-eCQw-KTSL-Cw9tCGogR3TB///VggL-ke6S-NXnaTO4a-ENMxnbnI//lxAgxlgv-GUgv-10GV-rsIn-qqZnOmnbAuJ5",
           "status": "ACTIVE"
         },
         {
           "callsign": "Azure",
           "alias": "Roy Spencer",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "code": "kprMs5AI-W4lN-hzRc-JH0y-QUv4peyYoXsk///WU6h-QfH9-DrpaUNYa-HDkwq2VY//nmjhYuKy-U7qL-XL0T-DgWV-ZPvvpbWSEGEN",
           "status": "ACTIVE"
         },
         {
           "callsign": "Jackal",
           "alias": "Layla Nour",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
+          "code": "DTLYykhs-E9YW-KH14-f7Ym-TQFufKKSt7QA///CapS-kzZE-EgrwVq4G-ZybLIQnr//mWS2hEmC-f3By-5SZN-LYcm-jaK8HFVNda7D",
           "status": "ACTIVE"
         },
         {
           "callsign": "Lazarus",
           "alias": "Helios Nonagessimus",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
+          "code": "5jogwSIq-BFNI-VK7U-xxIh-NnMVUPUe8gLv///BoN5-Wtb2-iT9x2UhG-RDGAdNSj//GK7nQCVy-pcZk-E0qZ-KUde-J6gaQF5ZKTh8",
           "status": "ACTIVE"
         },
         {
           "callsign": "Lysis",
           "alias": 'Erien Vachs',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "code": "97JrvuAw-f524-r8Sd-mSs5-rOIJUD8x6Ai1///RFDC-MQnD-2qF36c0V-ZGnGuuip//Nxj2m4N1-hBac-dWfT-Q4Er-98FqLBMfjHOK",
           "status": "ACTIVE"
         },
         {
           "callsign": "Mayhem",
           "alias": 'Bex',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "code": "tB4c0t0u-Nd64-7sht-nga4-H4pxQf74PEvy///fxlw-izW1-veXuSqz5-CxNWiJOh//6p6KgMmz-ccCc-gBsg-YeJ0-cSgAafUl4NOa",
           "status": "ACTIVE"
         },
         {
           "callsign": "Mercury",
           "alias": 'Kaelyn Forsythe',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "code": "JSb1e8Gy-QY9T-aetD-1vbt-6l3cmS5Kh56Q///VP4l-zzav-9NGTVynv-5X4EEUPH//ePlSWBv4-HxIl-TcFI-0eEm-7WW9SaJatKqE",
           "status": "ACTIVE"
         },
         {
           "callsign": "Sequence",
           "alias": 'Qasem Nurani',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "code": "AeQSR29R-dZaD-xfxT-9n8g-UE0W4vDN2h1M///WxV0-xJeH-Hew0oTiJ-zJGPzSuf//F78NcGee-lzZB-ayOd-c4HA-H9C1o7JHDwTX",
           "status": "ACTIVE"
         },
       ],
