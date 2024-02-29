@@ -17,8 +17,10 @@
 				<div class="name">
 					<h1>Status</h1>
 					<h2>{{ pilot.status }}</h2>
+					{{ pilot.mech }}
 				</div>
 			</div>
+			<img :src="mechPortrait" class="mech-portrait" />
 		</div>
 		<div class="middle">
 			<div class="text">&nbsp;</div>
