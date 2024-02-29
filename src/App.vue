@@ -162,7 +162,7 @@ export default {
         "ring": "Annamite-Line [Ring 11]",
         "headerTitle": "Iron Orchids",
         "headerSubtitle": "Tactical Assets",
-        "subheaderTitle": "Tallin Estel ",
+        "subheaderTitle": "Thalin Estel ",
         "subheaderSubtitle": "Private Net",
       },
       "options":{
