@@ -1,8 +1,8 @@
-NAME: QASEM NURANI
+<b>NAME:</b> QASEM NURANI
 
-BORN: WEST AGILLAN CITY, AURUM SIGMA VII, ANNA ATARODA
+<b>BORN:</b> WEST AGILLAN CITY, AURUM SIGMA VII, ANNA ATARODA
 
-CALLSIGN: SEQUENCE
+<b>CALLSIGN:</b> SEQUENCE
 
 Born to lineage of Neo-Persian Seveners who can trace their origins
 back to the first wave of AS7 colonists, Qasem moved to Port Esmeralda at a
