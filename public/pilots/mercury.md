@@ -1,10 +1,10 @@
-NAME: KAELYN FORSYTHE
+**NAME:** KAELYN FORSYTHE
 
-BORN: MOONLIT SUMMIT, ESTRION III
+**BORN:** MOONLIT SUMMIT, ESTRION III
 
-CALLSIGN: MERCURY
+**CALLSIGN:** MERCURY
 
-SUBJECTIVE AGE: 23 standard years
+**SUBJECTIVE AGE:** 23
 
 Born to a miner and a mechanic working for a local company in a mountain town on Estrion III, a resource-rich planet with primarily a jungle biome. Orphaned at age fourteen when her parents were killed in a strikebreaking effort by a Harrison Armory expansion force, and joined the resistance two years later. Kaelyn's resistance cell was run by a former commander of her country's now-defunct military, who went by the codename 'Mercury.' Kaelyn was trained accordingly in guerilla warfare -- stealth, scouting, high-intensity firefights, demolitions.
 

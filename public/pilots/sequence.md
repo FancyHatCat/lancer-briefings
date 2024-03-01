@@ -1,8 +1,8 @@
-NAME: QASEM NURANI
+**NAME:** QASEM NURANI
 
-BORN: AURUM SIGMA VII, ANNA ATARODA SYSTEM, ANNAMITE LINE
+**BORN:** AURUM SIGMA VII, ANNA ATARODA SYSTEM, ANNAMITE LINE
 
-CALLSIGN: SEQUENCE
+**CALLSIGN:** SEQUENCE
 
 Born to lineage of Neo-Persian Seveners who can trace their origins
 back to the first wave of AS7 colonists, Qasem moved to Port Esmeralda at a

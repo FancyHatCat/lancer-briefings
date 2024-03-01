@@ -1,8 +1,8 @@
-NAME: CÉCILE ZHEN
+**NAME:** CÉCILE ZHEN
 
-BORN: NEW SAINT MICHEL, CALVADOS SYSTEM, SIERRA MADRE LINE.
+**BORN:** NEW SAINT MICHEL, CALVADOS SYSTEM, SIERRA MADRE LINE.
 
-CALLSIGN: ALCESTE
+**CALLSIGN:** ALCESTE
 
 Busybody, highly stressed. Easy to tease. Like cocktails and has bad sleeping habits. Real fond of the roomba.
 
