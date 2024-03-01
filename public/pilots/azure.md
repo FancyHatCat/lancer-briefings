@@ -1,7 +1,10 @@
 NAME: ROY SPENCER
+
 CALLSIGN: AZURE
 
+
 OBJECTIVE AGE: UNKNOWN
+
 SUBJECTIVE AGE: 26
 
 Roy's a former employee of the now defunct Azure Lane Shipping Company. he was a "captain" of one of their deep space cargo haulers, a fancy title for what is basically a "space trucker." Much to Roy's chagrin, ALSC went down, due to profit losses from piracy in their shipping corridors, with IPS-N swooping in to pick up the pieces. They took ALSC'S clients for their portfolio, ships for their fleet and orbital warehouses for storage, but left many employees on the floor. Roy was one of them. 
