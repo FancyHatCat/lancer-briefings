@@ -1,6 +1,6 @@
 NAME: QASEM NURANI
 
-BORN: WEST AGILLAN CITY, AURUM SIGMA VII, ANNA ATARODA
+BORN: AURUM SIGMA VII, ANNA ATARODA SYSTEM, ANNAMITE LINE
 
 CALLSIGN: SEQUENCE
 
@@ -28,4 +28,4 @@ convert/recruit for Adherents, but also at risk of being poached by Horizon
 Collective. Inexperienced with unshackling/cascade. No indication that
 he has cycled NHP HOMA since fragment acquisition.
 
-Within the dynamics of the group, he fell into the role of "Team Mom." Which is perfect, means I get to babysit less and smoke more.
+Within the dynamics of the group, he fell into the role of "Team Mom." Which is perfect, I get to babysit less and smoke more.
