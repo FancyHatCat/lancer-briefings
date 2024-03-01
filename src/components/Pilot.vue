@@ -17,7 +17,9 @@
 				<div class="name">
 					<h1>Status</h1>
 					<h2>{{ pilot.status }}</h2>
-					<h2 type: hidden>{{ pilot.mech }}</h2>
+					<br>
+					<h1>{{ pilot.corpro }} // {{ pilot.frame }}</h1>
+					<h2>{{ pilot.mech }}</h2>
 				</div>
 			</div>
 			<img :src="mechPortrait" class="mech-portrait" />
