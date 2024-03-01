@@ -240,7 +240,7 @@ export default {
 <style lang="scss">
 #app {
   width: 1902px;
-  height: 1300px;
+  height: flex;
   overflow: hidden;
 }
 </style>
