@@ -1,10 +1,10 @@
-<b>NAME:</b> HELIOS MARTINA NONAGESSIMUS
+NAME: HELIOS MARTINA NONAGESSIMUS
 
-<b>CALLSIGN:</b> LAZARUS
+CALLSIGN: LAZARUS
 
-<b>OBJECTIVE AGE:</b> 406
+OBJECTIVE AGE: 406
 
-<b>SUBJECTIVE AGE:</b> UNKNOWN
+SUBJECTIVE AGE: UNKNOWN
 
 Helios was a first-gen colonist birthed in 4620u on the planet Summer in the Himalaya Line.  What records remain indicate that she was a mechanic and junk dealer before the paracausal incident that claimed the planet. Contact was lost with Summer in 4641u, before being reestablished a few months later. This sporadic contact repeated itself for several years until the planet vanished from physical space. Helios was the only survivor; found floating in space near the planet's former location in a mech frame apparently assembled from junk parts. Her description of the situation on Summer shows convincing evidence that she was stuck in a metavault.
 
