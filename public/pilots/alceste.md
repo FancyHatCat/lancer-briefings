@@ -22,7 +22,7 @@ It makes her particularly useful, personal issues aside. She's no soldier, but k
 
 She's responsible for hundreds of cases of cyberterrorism, cracking and other forms of electronic espionage across the Omninet. Billions of manna worth of accounts siphoned and sensitive documents leaked to public forums. 
 I've crossed paths with her a couple of times, under various aliases, although she's unaware of it. But there's little substance there. She fiddled around for years, a bored schoolgirl trying out various hobbies and seeing what sticks. 
-That is, until the time around her arrival on A.S.7. Looking for her electronic fingerprint is not an easy game to play, but wherever on the Omni she goes, Cécile is interested in finding a particular indiviual. 
+That is, until the time around her arrival on A.S.7. Looking for her electronic fingerprint is not an easy game to play, but wherever on the Omni she goes, Cécile is interested in finding a particular individual. 
 Dates and locale correspond pretty nicely with the date of the pirate raid between the Cascade Line. Just one problem. There's no record of her being picked up by a passing convoy. Nor any record of her making it through the nearest blink gate.
 
 A mystery for the ages. Is what most would say.
