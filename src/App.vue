@@ -109,10 +109,10 @@ export default {
           "callsign": "Alceste",
           "alias": "Cécile Zhen",
           "code": "nUO9sckU-wrVY-eCQw-KTSL-Cw9tCGogR3TB///VggL-ke6S-NXnaTO4a-ENMxnbnI//lxAgxlgv-GUgv-10GV-rsIn-qqZnOmnbAuJ5",
-          "status": "ACTIVE",
           "corpro": "IPS-N",
           "frame": "Kidd",
-          "mech": "Silkworm"
+          "mech": "Silkworm",
+          "status": "ACTIVE"
         },
         {
           "callsign": "Azure",
