@@ -166,7 +166,7 @@ export default {
           "frame": "Tortuga",
           "mech": "Shapur",
           "status": "ACTIVE"
-        },
+        }
       ],
       "header": {
         "planet": "CARIBBEAN SPACE",
