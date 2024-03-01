@@ -150,12 +150,15 @@ export default {
           //"code": "tB4c0t0u-Nd64-7sht-nga4-H4pxQf74PEvy///fxlw-izW1-veXuSqz5-CxNWiJOh//6p6KgMmz-ccCc-gBsg-YeJ0-cSgAafUl4NOa",
           //"status": "ACTIVE"
         //},
-        //{
-          //"callsign": "Mercury",
-          //"alias": 'Kaelyn Forsythe',
-          //"code": "JSb1e8Gy-QY9T-aetD-1vbt-6l3cmS5Kh56Q///VP4l-zzav-9NGTVynv-5X4EEUPH//ePlSWBv4-HxIl-TcFI-0eEm-7WW9SaJatKqE",
-          //"status": "ACTIVE"
-        //},
+        {
+          "callsign": "Mercury",
+          "alias": 'Kaelyn Forsythe',
+          "code": "JSb1e8Gy-QY9T-aetD-1vbt-6l3cmS5Kh56Q///VP4l-zzav-9NGTVynv-5X4EEUPH//ePlSWBv4-HxIl-TcFI-0eEm-7WW9SaJatKqE",
+          "corpro": "HORUS",
+          "frame": "Lich",
+          "mech": "Nine",
+          "status": "ACTIVE"
+        },
         {
           "callsign": "Sequence",
           "alias": 'Qasem Nurani',
