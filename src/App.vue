@@ -178,7 +178,7 @@ export default {
         "headerTitle": "Iron Orchids",
         "headerSubtitle": "Tactical Assets",
         "subheaderTitle": "Thalin Estel ",
-        "subheaderSubtitle": "Private Net",
+        "subheaderSubtitle": "Private Network",
       },
       "options":{
         "eventsMarkdownPerMission": true
