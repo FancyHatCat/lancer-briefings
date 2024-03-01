@@ -1,30 +1,29 @@
-NAME: Qasem Nurani
-BORN: West Agillan City, Aurum Sigma VII, Anna Ataroda
-CALLSIGN: Sequence
+## NAME: QASEM NURANI
+## BORN: WEST AGILLAN CITY, AURUM SIGMA VII, ANNA ATARODA
+## CALLSIGN: SEQUENCE
 
 Born to lineage of Neo-Persian Seveners who can trace their origins
-back to the first wave of AS7 colonists. Moved to Port Esmeralda at a
+back to the first wave of AS7 colonists, Qasem moved to Port Esmeralda at a
 young age to live with his aunt, after his father contracted & perished
 from Halpert's Disease (AFS). Worked at South Agillan Motor Pool.
 Received Everest training from independent security force based out of
 Port Esmeralda.
 
-Good mechanical aptitude, strong work ethic. Idealist tempered by real
-world experience. High emotional intelligence. Lonely. Works himself
-to the bone as a coping mechanism. Easily manipulated. Diaspora; lack
-of cosmopolitan experience makes him a potential liability once
+Good mechanical aptitude, he presents a strong, reliable work ethic. He's also an idealist, yet tempered by real
+world experience. High emotional intelligence, but lonely. Works himself
+to the bone as a coping mechanism. Easily manipulated. As a Diasporan, his lack
+of cosmopolitan experience turns him a potential liability now that he is
 uprooted.
 
-Values good engineering, shows preference for IPS-N and HA frames.
-Favors heavy armor vis a vis Tortuga-class. Compensates for relative
-lack of combat experience with high spread weaponry. Good spatial
+Values good engineering, showing preference for IPS-N and HA frames.
+Favors heavy armor vis a vis Tortuga-class. Although lacking in formal combat training, he compensates through a high spread weaponry. Owner of above average spatial
 intelligence; Sunzi-class blinkspace technology a good match for said
 talent.
 
-Partnered with NHP HOMA (Hands-On Mechanical Assistant). Acclimation to
+Having been partnered with NHP HOMA (Hands-On Mechanical Assistant), his acclimation to
 NHP partnership has been encouraged, to satisfactory results. Potential
-convert/recruit for Adherents. At-risk to be poached by Horizon
+convert/recruit for Adherents, but also at risk of being poached by Horizon
 Collective. Inexperienced with unshackling/cascade. No indication that
 he has cycled NHP HOMA since fragment acquisition.
 
-"Team Mom" which means I get to babysit less and smoke more.
+Within the dynamics of the group, he fell into the role of "Team Mom." Which is perfect, means I get to babysit less and smoke more.
