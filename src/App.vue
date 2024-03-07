@@ -89,18 +89,18 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "001-A",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "001",
-          "name": "None",
+          "slug": "001-A",
+          "name": "Asteroids (Sector 1)",
           "status": "start"
         },
         {
-          "slug": "002",
-          "name": "None",
+          "slug": "001-B",
+          "name": "Asteroids (Sector 2)",
           "status": "start"
         },
       ],
