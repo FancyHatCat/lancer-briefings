@@ -123,12 +123,15 @@ export default {
           "mech": "Skies Unknown",
           "status": "ACTIVE"
         },
-        //{
-          //"callsign": "Jackal",
-          //"alias": "Layla Nour",
-          //"code": "DTLYykhs-E9YW-KH14-f7Ym-TQFufKKSt7QA///CapS-kzZE-EgrwVq4G-ZybLIQnr//mWS2hEmC-f3By-5SZN-LYcm-jaK8HFVNda7D",
-          //"status": "ACTIVE"
-        //},
+        {
+          "callsign": "Jackal",
+          "alias": "Layla Nour",
+          "code": "DTLYykhs-E9YW-KH14-f7Ym-TQFufKKSt7QA///CapS-kzZE-EgrwVq4G-ZybLIQnr//mWS2hEmC-f3By-5SZN-LYcm-jaK8HFVNda7D",
+          "corpro": "HA",
+          "frame": "Barbarossa",
+          "mech": "Anubis",
+          "status": "ACTIVE"
+        },
         {
           "callsign": "Lazarus",
           "alias": "Helios Nonagessimus",
