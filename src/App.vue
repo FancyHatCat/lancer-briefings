@@ -96,7 +96,7 @@ export default {
         {
           "slug": "001-A",
           "name": "Asteroids (Sector 1)",
-          "status": "start"
+          "status": "success"
         },
         //{
           //"slug": "001-B",
