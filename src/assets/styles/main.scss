@@ -776,10 +776,9 @@ div.markdown {
     color: $primary;
   }
 
-  img {
-    text-decoration: none;
-    height: 300px;
-    width: 400px;
+  a {
+    color:red;
+    border-color: blue;
   }
 
   h1 {
