@@ -98,11 +98,11 @@ export default {
           "name": "Asteroids (Sector 1)",
           "status": "success"
         },
-        //{
-          //"slug": "001-B",
-          //"name": "Asteroids (Sector 2)",
-          //"status": "start"
-        //},
+        {
+          "slug": "001-B",
+          "name": "Asteroids (Sector 2)",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
