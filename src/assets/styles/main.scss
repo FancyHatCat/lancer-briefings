@@ -776,9 +776,10 @@ div.markdown {
     color: $primary;
   }
 
-  a {
+  img {
     text-decoration: none;
-    image-resolution: 20%;
+    height: 300px;
+    width: 300px;
   }
 
   h1 {
