@@ -777,9 +777,11 @@ div.markdown {
   }
 
   a {
-    color:red;
-    border: 10px 10px;
-    border-color: blue;
+    color: $primary;
+  }
+
+  a :hover {
+    color: white;
   }
 
   h1 {
