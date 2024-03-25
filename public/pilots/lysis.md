@@ -1,1 +1,13 @@
-## DOSSIER NOT FOUND
+**NAME:** ERIEN VACHS
+
+**BORN:** AURUM SIGMA VII, ANNA ATARODA SYSTEM, ANNAMITE LINE
+
+**CALLSIGN:** LYSIS
+
+Born to a mining forewoman and volunteer militiaman in a small mining city on Aurum Sigma VII. Fostering a bright intellect and curiosity for science throughout her childhood, the witnessing of her family and community's struggles with AFS, commonly called Halpert's Disease, inspired her to pursue a career in medicine. Erien has a sharp and inquisitive mind, leading her into becoming a full-fledged doctor and medical researcher. She spent the following decade of her life developing a cure for the heretofore implacable illness. The means by which this was eventually achieved remains unclear, the clues isolated to the records of several small and unfruitful inquiries by Aurum Sigma VII medical ethics boards and corporate private investigators. A case was at one point opened against her on charges related to the illicit trade of cloning technology, but was eventually dropped.
+
+Lysis joined the Iron Orchids mercenary group to accrue the means and material to effectively develop the final stage of her research. Specializing in advanced engineering and energy systems management, she leans heavily on the Harrison Armory array of weapons and frames. Her fighting style is clean and efficient - clinical, even - seeking to overwhelm enemy combatants with high-impact energy-based armaments to end battles quick and decisively. Though compassionate as befitting a doctor, Lysis easily compartmentalizes the violent nature of the battlefield, viewing the elimination of her enemies as alike to triage - in her mind the choice to decide who lives is no different in a pilot's seat than in an emergency room.
+
+Of her relations with the team and crew, Lysis maintains friendly relations with all while keeping some emotional distance. She drinks sparingly, but makes time to participate in group bonding activities. With regards to the NHP entities she interacts with as a pilot and crewmember, she harbors no particular affinity or enmity, viewing them as powerful and dangerous tools. She has brought her daughter Erika aboard in hopes of leading her to a greater life beyond the stale border world of Aurum Sigma VII. Having accomplished her lifelong goal of curing Halpert's, Erien Vachs now ponders what her own ambitions should be as she and the Orchids fly through the stars.
+
+Perhaps I can give her the answer she seeks.
