@@ -141,18 +141,23 @@ export default {
           "mech": "Nine",
           "status": "ACTIVE"
         },
-        //{
-          //"callsign": "Lysis",
-          //"alias": 'Erien Vachs',
-          //"code": "97JrvuAw-f524-r8Sd-mSs5-rOIJUD8x6Ai1///RFDC-MQnD-2qF36c0V-ZGnGuuip//Nxj2m4N1-hBac-dWfT-Q4Er-98FqLBMfjHOK",
-          //"status": "ACTIVE"
-        //},
-        //{
-          //"callsign": "Mayhem",
-          //"alias": 'Bex',
-          //"code": "tB4c0t0u-Nd64-7sht-nga4-H4pxQf74PEvy///fxlw-izW1-veXuSqz5-CxNWiJOh//6p6KgMmz-ccCc-gBsg-YeJ0-cSgAafUl4NOa",
-          //"status": "ACTIVE"
-        //},
+        {
+          "callsign": "Lysis",
+          "alias": 'Erien Vachs',
+          "code": "97JrvuAw-f524-r8Sd-mSs5-rOIJUD8x6Ai1///RFDC-MQnD-2qF36c0V-ZGnGuuip//Nxj2m4N1-hBac-dWfT-Q4Er-98FqLBMfjHOK",
+          "corpro": "HA",
+          "frame": "Sherman",
+          "mech": "Hyperthermic Prognosis",
+          "status": "ACTIVE"
+        },
+        {
+          "callsign": "Mayhem",
+          "alias": 'Rebecca "Bex"',
+          "code": "tB4c0t0u-Nd64-7sht-nga4-H4pxQf74PEvy///fxlw-izW1-veXuSqz5-CxNWiJOh//6p6KgMmz-ccCc-gBsg-YeJ0-cSgAafUl4NOa",
+          "corpro": "SSC",
+          "frame": "Viceroy"
+          "status": "ACTIVE"
+        },
         {
           "callsign": "Mercury",
           "alias": 'Kaelyn Forsythe',
