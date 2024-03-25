@@ -155,7 +155,7 @@ export default {
           "alias": 'Rebecca "Bex"',
           "code": "tB4c0t0u-Nd64-7sht-nga4-H4pxQf74PEvy///fxlw-izW1-veXuSqz5-CxNWiJOh//6p6KgMmz-ccCc-gBsg-YeJ0-cSgAafUl4NOa",
           "corpro": "SSC",
-          "frame": "Viceroy"
+          "frame": "Viceroy",
           "status": "ACTIVE"
         },
         {
