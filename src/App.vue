@@ -101,7 +101,7 @@ export default {
         {
           "slug": "001-B",
           "name": "Asteroids (Sector 2)",
-          "status": "start"
+          "status": "partial-success"
         },
       ],
       "pilots": [
