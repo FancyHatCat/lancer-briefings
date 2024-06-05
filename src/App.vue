@@ -89,10 +89,20 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001-B",
+      "mission_slug": "002-A",
       "current_md": "",
       "events": "",
       "missions": [
+        {
+          "slug": "002-A",
+          "name": "Under a Mausoleum's Shadow",
+          "status": "start"
+        },
+        {
+          "slug": "001-B",
+          "name": "Graveyard Shift",
+          "status": "start"
+        },
         {
           "slug": "001-A",
           "name": "Asteroids (Sector 1)",
