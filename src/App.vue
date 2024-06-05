@@ -99,7 +99,7 @@ export default {
           "status": "start"
         },
         {
-          "slug": "001-B",
+          "slug": "002-B",
           "name": "Graveyard Shift",
           "status": "start"
         },
