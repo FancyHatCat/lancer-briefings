@@ -119,9 +119,9 @@ export default {
           "callsign": "Alceste",
           "alias": "Cécile Zhen",
           "code": "nUO9sckU-wrVY-eCQw-KTSL-Cw9tCGogR3TB///VggL-ke6S-NXnaTO4a-ENMxnbnI//lxAgxlgv-GUgv-10GV-rsIn-qqZnOmnbAuJ5",
-          "corpro": "IPS-N",
-          "frame": "Kidd",
-          "mech": "Silkworm",
+          "corpro": "SSC",
+          "frame": "Swallowtail",
+          "mech": "Strega",
           "status": "ACTIVE"
         },
         {
@@ -146,9 +146,9 @@ export default {
           "callsign": "Lazarus",
           "alias": "Helios Nonagessimus",
           "code": "5jogwSIq-BFNI-VK7U-xxIh-NnMVUPUe8gLv///BoN5-Wtb2-iT9x2UhG-RDGAdNSj//GK7nQCVy-pcZk-E0qZ-KUde-J6gaQF5ZKTh8",
-          "corpro": "HORUS",
-          "frame": "Lich",
-          "mech": "Nine",
+          "corpro": "HA",
+          "frame": "Sherman",
+          "mech": "Nona",
           "status": "ACTIVE"
         },
         {
@@ -182,9 +182,9 @@ export default {
           "callsign": "Sequence",
           "alias": 'Qasem Nurani',
           "code": "AeQSR29R-dZaD-xfxT-9n8g-UE0W4vDN2h1M///WxV0-xJeH-Hew0oTiJ-zJGPzSuf//F78NcGee-lzZB-ayOd-c4HA-H9C1o7JHDwTX",
-          "corpro": "IPS-N",
-          "frame": "Tortuga",
-          "mech": "Shapur",
+          "corpro": "HA",
+          "frame": "Sunzi",
+          "mech": "Pahlevan",
           "status": "ACTIVE"
         },
       ],
