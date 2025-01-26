@@ -94,14 +94,24 @@ export default {
       "events": "",
       "missions": [
         {
+          "slug": "003-A",
+          "name": "Space Invaders",
+          "status": "start"
+        },
+        {
+          "slug": "003-B",
+          "name": "Raiders of the Lost Cargo",
+          "status": "start"
+        },
+        {
           "slug": "002-A",
           "name": "Under a Mausoleum's Shadow",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "002-B",
           "name": "Graveyard Shift",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "001-A",
