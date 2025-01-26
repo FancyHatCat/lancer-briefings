@@ -199,7 +199,7 @@ export default {
         },
       ],
       "header": {
-        "planet": "CARIBBEAN SPACE",
+        "planet": "ASTEROID MINING BASE",
         "year": "5101u",
         "system": "Tarf",
         "gate": "Ngoc Linh",
