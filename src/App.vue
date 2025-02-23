@@ -89,14 +89,14 @@ export default {
 
   data() {
     return {
-      "mission_slug": "003-A",
+      "mission_slug": "003-B",
       "current_md": "",
       "events": "",
       "missions": [
         {
           "slug": "003-A",
           "name": "Space Invaders",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "003-B",
@@ -156,9 +156,9 @@ export default {
           "callsign": "Lazarus",
           "alias": "Helios Nonagessimus",
           "code": "5jogwSIq-BFNI-VK7U-xxIh-NnMVUPUe8gLv///BoN5-Wtb2-iT9x2UhG-RDGAdNSj//GK7nQCVy-pcZk-E0qZ-KUde-J6gaQF5ZKTh8",
-          "corpro": "HA",
-          "frame": "Sherman",
-          "mech": "Nona",
+          "corpro": "HORUS",
+          "frame": "Lich",
+          "mech": "Nine",
           "status": "ACTIVE"
         },
         {
@@ -192,9 +192,9 @@ export default {
           "callsign": "Sequence",
           "alias": 'Qasem Nurani',
           "code": "AeQSR29R-dZaD-xfxT-9n8g-UE0W4vDN2h1M///WxV0-xJeH-Hew0oTiJ-zJGPzSuf//F78NcGee-lzZB-ayOd-c4HA-H9C1o7JHDwTX",
-          "corpro": "HA",
-          "frame": "Sunzi",
-          "mech": "Pahlevan",
+          "corpro": "IPS-N",
+          "frame": "Tortuga",
+          "mech": "Shapur",
           "status": "ACTIVE"
         },
       ],
