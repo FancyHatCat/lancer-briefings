@@ -204,7 +204,7 @@ export default {
         },
       ],
       "header": {
-        "planet": "ASTEROID MINING BASE",
+        "location": "TARF GUIDESTAR",
         "year": "5101u",
         "system": "Tarf",
         "gate": "Ngoc Linh",
