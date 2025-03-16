@@ -204,7 +204,7 @@ export default {
         },
       ],
       "header": {
-        "location": "TARF GUIDESTAR",
+        "planet": "TARF GUIDESTAR",
         "year": "5101u",
         "system": "Tarf",
         "gate": "Ngoc Linh",
