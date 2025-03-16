@@ -16,7 +16,7 @@
     <div class="rhombus">&nbsp;</div>
     <video autoplay muted loop width="90px" height="90px">
       // Change Planet Here
-      <source src="/planets/asteroid-base.webm" type="video/webm" />
+      <source src="/planets/tarf.webm" type="video/webm" />
       // Change Planet Here
     </video>
     <div class="location-info">

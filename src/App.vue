@@ -89,10 +89,15 @@ export default {
 
   data() {
     return {
-      "mission_slug": "003-B",
+      "mission_slug": "004",
       "current_md": "",
       "events": "",
       "missions": [
+        {
+          "slug": "004",
+          "name": "Tarf Combat Zone",
+          "status": "start"
+        },
         {
           "slug": "003-A",
           "name": "Space Invaders",
@@ -101,7 +106,7 @@ export default {
         {
           "slug": "003-B",
           "name": "Raiders of the Lost Cargo",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "002-A",
